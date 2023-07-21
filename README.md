@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cloudiqtech.com/wp-content/uploads/brizy/imgs/blog_banner_2_sep-2021-925x451x0x0x925x451x1632155061.png)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQGrGJ4wzEGg7w/article-cover_image-shrink_423_752/0/1520170566619?e=1695254400&v=beta&t=5bV-Lvdjh0BYTYRAWVnbJ6d6QdHVOTUVlwRYLr9lG3I)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Probodh Mahato</h1>
 <h3 align="center">Seeking a challenging role as a DevOps Engineer where I can leverage my expertise in automating software development, deployment, and infrastructure processes. My objective is to enhance the efficiency of development teams and ensure seamless integration between operations and development, ultimately driving continuous delivery and maximizing overall productivity.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*reRpiezl3EnhtteqjoGSLw.gif">
