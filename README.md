@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQGrGJ4wzEGg7w/article-cover_image-shrink_423_752/0/1520170566619?e=1695254400&v=beta&t=5bV-Lvdjh0BYTYRAWVnbJ6d6QdHVOTUVlwRYLr9lG3I)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Probodh Mahato</h1>
-<h3 align="center">Seeking a challenging role as a DevOps Engineer where I can leverage my expertise in automating software development, deployment, and infrastructure processes. My objective is to enhance the efficiency of development teams and ensure seamless integration between operations and development, ultimately driving continuous delivery and maximizing overall productivity.</h3>
+<h3 align="center">Enthusiastic Sr. DevOps Engineer with 5+ years of extensive experience in DevOps, Infrastructure, Cloud Computing, Operating System (Linux) and Application Monitoring</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*reRpiezl3EnhtteqjoGSLw.gif">
 
 - 🔭 I’m currently working on RHEL Migration [TataCliq](https://www.tatacliq.com/)
